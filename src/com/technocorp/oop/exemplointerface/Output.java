@@ -1,6 +1,6 @@
 package com.technocorp.oop.exemplointerface;
 
-import com.technocorp.oop.exemplointerface.exeptions.OutOfScopeException;
+import com.technocorp.oop.exemplointerface.exceptions.OutOfScopeException;
 
 //Classe para mostrar na tela os retornos dos métodos.
 public class Output {

@@ -1,6 +1,6 @@
 package com.technocorp.oop.exemplointerface;
 
-import com.technocorp.oop.exemplointerface.exeptions.OutOfScopeException;
+import com.technocorp.oop.exemplointerface.exceptions.OutOfScopeException;
 
 public class SantaCatarina implements Brasil{
     //Não é preciso implementar o método default.

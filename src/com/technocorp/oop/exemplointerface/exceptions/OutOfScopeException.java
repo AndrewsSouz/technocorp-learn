@@ -1,4 +1,4 @@
-package com.technocorp.oop.exemplointerface.exeptions;
+package com.technocorp.oop.exemplointerface.exceptions;
 
 public class OutOfScopeException extends Exception{
 

@@ -1,6 +1,6 @@
 package com.technocorp.oop.exemplointerface;
 
-import com.technocorp.oop.exemplointerface.exeptions.OutOfScopeException;
+import com.technocorp.oop.exemplointerface.exceptions.OutOfScopeException;
 
 public class RioGrandeDoSul implements Brasil{
 
