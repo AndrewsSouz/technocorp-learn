@@ -1,1 +1,1 @@
-######### This is a simple java code to progress on my intern presentation, this code presents the principal OOP concepts how access methods, interfaces and exceptions. it provides a little implementation of collections too.############
+This is a simple java code to progress on my intern presentation, this code presents the principal OOP concepts how access methods, interfaces and exceptions. it provides a little implementation of collections too.
